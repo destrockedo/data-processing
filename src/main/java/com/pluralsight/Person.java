@@ -1,5 +1,5 @@
 
-package com.pluralsight.loops;
+package com.pluralsight;
 
 public class Person {
     private String firstName;
